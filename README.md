@@ -1,6 +1,6 @@
 # Red-Wine-Quality-Prediction-Model-using-AWS-Sagemaker
 This project leverage AWS SageMaker to Build, Train, Deploy, and Evaluate a Machine learning model using the XGBoost algorithm.
-* **Structure Investigation, Exploratory data analysis (EDA)(Multivariate Analysis, Univariate Analysis).**
+* **Structure Investigation, Exploratory data analysis (EDA)(Multivariate Analysis, Univariate Analysis)**
 * **Train, Deploy, and Evaluate XGBoost Model**
 
 ## Datasets
