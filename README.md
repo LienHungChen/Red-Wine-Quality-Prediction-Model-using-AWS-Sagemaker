@@ -1,5 +1,5 @@
 # Red-Wine-Quality-Prediction-Model-using-AWS-Sagemaker
-This project leverage AWS SageMaker to Build, Train, Deploy, and Evaluate a Machine learning(ML) model using the XGBoost algorithm.
+This project leverage AWS SageMaker to Build, Train, Deploy, and Evaluate a Machine learning model using the XGBoost algorithm.
 
 ## Datasets
   * **Overview:** This dataset is related to red variants of the Portuguese "Vinho Verde" wine.
