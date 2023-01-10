@@ -1,0 +1,12 @@
+bokeh==3.0.3
+boto3==1.26.45
+imbalanced_learn==0.10.1
+imblearn==0.0
+ipython==8.8.0
+matplotlib==3.6.2
+numpy==1.23.5
+pandas==1.5.2
+sagemaker==2.127.0
+scikit_learn==1.2.0
+seaborn==0.12.2
+smdebug==1.0.12
