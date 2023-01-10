@@ -1,5 +1,9 @@
 # Red-Wine-Quality-Prediction-Model-using-AWS-Sagemaker
 ## Datasets
+  * **Overview:** This dataset is related to red variants of the Portuguese "Vinho Verde" wine.
+  * **Details:** 6 different classes (quality from 3 to 8), 11 variables (based on physicochemical tests), 1599 different wines.
+  * **Task:** Classification
+
 ## Notes
 - Sign in the ```AWS console```, search ```Amazon SageMaker``` and create ```Notebook instances```.
 - Install the libraries listed in ```requirements.txt``` with ```!pip install --disable-pip-version-check -q 'PackageName'``` in Notebook instances created in Amazon SageMaker.  
